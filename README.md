@@ -1,4 +1,4 @@
 # yii_blog
-my first yii project bolg
+php yii project bolg
 
 
